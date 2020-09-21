@@ -17,4 +17,4 @@ In the process of working on this project, I:
 1. created this README.
 
 The webpage looks like:
-![Horiseon Mockup]()
+![Horiseon Mockup](https://github.com/calistamayer/Horiseon/blob/master/assets/images/mockup.png?raw=true)
